@@ -24,19 +24,19 @@ Logistic regression is highly suitable in analyzing binary outcomes. This study 
 
 The dataset will undergo cleaning, graceful handling of missing values. Some cells under the variable Age are missing value, so we will replace these NaN values with an average age instead of removing the respective entries to maintain the number of observations within the dataset. In addition, categorical variable, such as gender is encoded into binary format, where female = 1, male = 0.
 
-Model Building 
+#### Model Building 
 
 The cleaned dataset is split into training (80%) and testing (20%) sets. A logistic regression model will be trained using data that is included in the preprocessing steps for model fitting. All predictors are standardized or encoded during preprocessing to ensure compatibility with the logistic regression model.
 
-Model Training 
+#### Model Training 
 
 The logistic regression model is fitted using the training dataset. Each predictor contributes to the model by adjusting the odds of a perfume being classified as male or female.
 
-Model Testing 
+#### Model Testing 
 
 The model is evaluated on the “unseen” 20% testing dataset, to predict the gender of perfumes based on the predictors. Performance metrics such as prediction accuracy, and ROC-AUC score are calculated to assess how well the model generalizes to new data.
 
-Final Evaluation 
+#### Final Evaluation 
 
 The final evaluation involves interpreting the model’s coefficients and assessing its predictions, such as: A positive coefficient for “Notes Diversity” would suggest perfumes with more diverse notes are more likely to be classified as Male. A PCA analysis will be done to identify the most influential but indiscernible factors in gender classification and understand which note or scent determines the gender of the perfume.
 
