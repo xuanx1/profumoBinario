@@ -2,9 +2,11 @@
 One of the key reasons gendered perfumes have remained so dominant is due to deeply embedded stereotypes within the fragrance industry and consumer psychology. (Smith 2019). The rising trend of unisex and gender-neutral fragrances, however, challenges these long-standing norms and invites a re-evaluation of how scent and identity interact (Lopez 2021).
 
 [PCA Preview](https://xuanx1.github.io/profumoBinario/perfume_pca_3d_plot.html)
-![3dPCA](https://github.com/user-attachments/assets/ba844883-5723-46dc-a60f-bb1889860cd2)
 
 [Report](https://github.com/xuanx1/profumoBinario/blob/main/final_report_xuan.pdf)
+
+![3dPCA](https://github.com/user-attachments/assets/ba844883-5723-46dc-a60f-bb1889860cd2)
+
 
 ### Introduction 
 Gender has always shaped how perfumes are marketed and consumed. For years, perfumes have been categorized into "men" and "women" based on their scent profiles and its respective social narratives. Floral and powdery notes are often associated with femininity, while woody and spicy notes are associated with masculinity. Today, these social conventions continue to persist, despite being more of a cultural norms than having any scientific proof. (Doe 2020).
