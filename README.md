@@ -25,7 +25,7 @@ Logistic regression is highly suitable in analyzing binary outcomes. This study 
 
 #### Data Processing 
 
-The dataset will undergo cleaning, graceful handling of missing values. Some cells under the variable Age are missing value, so we will replace these NaN values with an average age instead of removing the respective entries to maintain the number of observations within the dataset. In addition, categorical variable, such as gender is encoded into binary format, where female = 1, male = 0.
+The dataset will undergo cleaning, graceful handling of missing values. Some cells under the variable Age are missing value, so we will replace these NaN values with an average age instead of removing the respective entries to maintain the number of observations within the dataset. In addition, categorical variable, such as gender is encoded into binary format, where female = 0, male = 1.
 
 #### Model Building 
 
